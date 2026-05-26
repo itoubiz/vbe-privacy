@@ -1,75 +1,8 @@
-# vbe-privacy
-Règles de confidentialité
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Politique de confidentialité - VBE</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            max-width: 900px;
-            margin: 40px auto;
-            padding: 20px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-    </style>
-</head>
-<body>
+# VBE
 
-<h1>Politique de confidentialité - VBE (Vivre les Bontés de l'Éternel)</h1>
+Site officiel des documents légaux de l'application
+VBE (Vivre les Bontés de l'Éternel).
 
-<p>Votre vie privée est importante pour nous.</p>
-
-<h2>1. Données collectées</h2>
-<p>VBE collecte certaines données pour faire fonctionner l'application et améliorer votre expérience :</p>
-<ul>
-    <li>Nom et prénom</li>
-    <li>Adresse e-mail</li>
-    <li>Pays de résidence</li>
-    <li>Préférences (langue, thème)</li>
-    <li>Historique d'utilisation des fonctionnalités</li>
-</ul>
-
-<h2>2. Utilisation des données</h2>
-<p>Ces informations sont utilisées pour :</p>
-<ul>
-    <li>Gérer votre compte utilisateur</li>
-    <li>Afficher les contenus appropriés</li>
-    <li>Assurer la sécurité du service</li>
-    <li>Produire des statistiques anonymes</li>
-</ul>
-
-<h2>3. Stockage et partage</h2>
-<p>Vos données sont stockées sur des serveurs sécurisés et partagées uniquement avec les prestataires techniques nécessaires au fonctionnement du service.</p>
-
-<p><strong>VBE ne revend jamais vos données personnelles.</strong></p>
-
-<h2>4. Protection des données</h2>
-<ul>
-    <li>Chiffrement des communications</li>
-    <li>Accès restreint aux données</li>
-    <li>Mises à jour de sécurité régulières</li>
-</ul>
-
-<h2>5. Vos droits</h2>
-<p>Vous pouvez à tout moment :</p>
-<ul>
-    <li>Modifier vos informations personnelles</li>
-    <li>Demander la suppression de votre compte</li>
-    <li>Consulter les données vous concernant</li>
-</ul>
-
-<p>Certaines données peuvent être conservées conformément aux obligations légales applicables.</p>
-
-<h2>6. Contact</h2>
-<p>Pour toute question concernant cette politique ou vos données personnelles, contactez l'équipe VBE depuis l'application ou à l'adresse e-mail officielle du ministère.</p>
-
-<p><strong>Dernière mise à jour : Mai 2026</strong></p>
-
-</body>
-</html>
+- Politique de confidentialité
+- Conditions d'utilisation
+- Suppression de compte
